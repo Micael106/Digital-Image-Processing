@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="ProcImgMicael">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProcImgMicael</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="ProcImgMicael.apk" />
+  </artifact>
+</component>
